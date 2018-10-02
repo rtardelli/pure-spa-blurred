@@ -32,8 +32,10 @@ body {
 .content {
   position: absolute;
   z-index: 1;
-  top: 40vh;
-  left: 40%;
+  top: 10%;
+  left: 37%;
+  margin-top: 105px;
+  margin-left: -10px;
   width: 300px;
   height: 350px;
   text-align: center;
@@ -41,7 +43,6 @@ body {
 }
 
 .content .logo {
-  /*TODO: Implement*/
   font-size: 3rem;
 }
 
@@ -105,7 +106,8 @@ footer p {
 
   .content {
     top: 5%;
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-left: -95px;
   }
 
   .content .text {
